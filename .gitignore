@@ -3,3 +3,4 @@ solutions/
 .ipynb_checkpoints/
 .vscode/
 backup.ipynb
+.venv
